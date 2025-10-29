@@ -1,4 +1,12 @@
 h1 {
-    font-size: 50px;
-    color: blue;
+    font-size: 44px;
+    font-style: italic;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    color: rgb(0, 180, 105);
+  }
+
+  p {
+    font-size: 20px;
+    font-family:Georgia;
+    color: rgb(100, 100, 100);
   }
